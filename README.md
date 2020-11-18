@@ -31,6 +31,7 @@ I'm trying to create a timeline for history of computer.
 | 1983 | Objective-C, C++ |||||
 | 1973 | ML (meta langauge) | | | | |
 | 1978 | MATLAB ||||||
+| 1976.04.01 | Apple was found |||||
 | 1972 | Smalltalk, C, SQL |||||
 | 1970 | Pascal |||||
 | 1964 | BASIC |||||

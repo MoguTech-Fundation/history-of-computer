@@ -4,6 +4,7 @@ I'm trying to create a timeline for history of computer.
 ## MVP Requirements
 - There must a timeline to display a general history of computer world
 - It could be categoried by time (default), location, people and orgnization
+- Having a membership program
 
 ## Content
 
@@ -13,9 +14,25 @@ I'm trying to create a timeline for history of computer.
 | 2015.09 | GraphQL |||||
 | 2015.06 | Redux |||||
 | 2015.03 | Babel |||||
-| 2014 | Flow | | | | |
+| 2014 | Swift, Flow | | | | |
+| 2009 | Go |||||
+| 2003 | Scala, Groovy |||||
+| 2000 | C# |||||
 | 1996 | OCaml | | | | |
+| 1995 | Java, PHP, Ruby, JavaScript |||||
+| 1993 | R |||||
+| 1991 | Python, Visual Basic |||||
+| 1990 | Haskell |||||
+| 1987 | Perl |||||
+| 1983 | Objective-C, C++ |||||
 | 1973 | ML (meta langauge) | | | | |
+| 1978 | MATLAB ||||||
+| 1972 | Smalltalk, C, SQL |||||
+| 1970 | Pascal |||||
+| 1964 | BASIC |||||
+| 1959 | LISP |||||
+| 1957 | Fortran |||||
+| 1949 | Assembly Language |||||
 
 ## Reference
 - https://www.computerhistory.org/timeline/

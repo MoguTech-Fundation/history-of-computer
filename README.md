@@ -10,6 +10,7 @@ I'm trying to create a timeline for history of computer.
 
 | Time | Event | Description | Location | People | Organization |
 | --- | --- | --- | --- | --- | --- |
+| 2020.11.10 | Apple Silicon (ARM) | Apple deprecate Intel core for their Mac computer products. || Apple |
 | 2018 | JSX |||| Facebook |
 | 2015.09 | GraphQL |||| Facebook |
 | 2015.06 | Redux |||| Facebook |

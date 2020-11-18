@@ -1,5 +1,5 @@
 # History of Computer
-I'm trying to create a timeline for history of computer.
+Influcence by Records of Three Kindoms, I think computer history has a lot of stories we can tell. I'm trying to create a timeline for history of computer, maybe it could help someone to create more interesting things based on it.
 
 ## MVP Requirements
 - There must a timeline to display a general history of computer world

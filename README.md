@@ -11,6 +11,7 @@ I'm trying to create a timeline for history of computer.
 | Time | Event | Description | Location | People | Organization |
 | --- | --- | --- | --- | --- | --- |
 | 2020.11.10 | Apple Silicon (ARM) | Apple deprecate Intel core for their Mac computer products. ||| Apple |
+| 2019 | Yahoo! was aquired by Verizon | ||| Verizon, Yahoo! |
 | 2018 | JSX |||| Facebook |
 | 2015.09 | GraphQL |||| Facebook |
 | 2015.06 | Redux |||| Facebook |
@@ -24,6 +25,7 @@ I'm trying to create a timeline for history of computer.
 | 2000 | C# |||||
 | 1996 | OCaml | | | | |
 | 1995 | Java, PHP, Ruby, JavaScript |||||
+| 1994 | Yahoo! was found | ||| Yahoo |
 | 1993 | R |||||
 | 1991 | Python, Visual Basic |||||
 | 1990 | Haskell |||||
@@ -31,9 +33,11 @@ I'm trying to create a timeline for history of computer.
 | 1983 | Objective-C, C++ |||||
 | 1973 | ML (meta langauge) | | | | |
 | 1978 | MATLAB ||||||
-| 1976.04.01 | Apple was found |||||
+| 1976.04.01 | Apple was found |||| Apple |
+| 1975.04.04 | Microsoft was found | ||| Microsoft |
 | 1972 | Smalltalk, C, SQL |||||
 | 1970 | Pascal |||||
+| 1968.07.18 | Intel was found | ||| Intel |
 | 1964 | BASIC |||||
 | 1959 | LISP |||||
 | 1957 | Fortran |||||

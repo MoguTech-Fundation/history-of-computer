@@ -1,5 +1,9 @@
 # history-of-computer
-I'm trying to create a timeline for history of computer
+I'm trying to create a timeline for history of computer.
+
+## MVP Requirements
+- There must a timeline to display a general history of computer world
+- It could be categoried by time (default), location, people and orgnization
 
 ## Reference
 - https://www.computerhistory.org/timeline/

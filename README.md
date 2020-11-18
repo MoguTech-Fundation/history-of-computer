@@ -35,6 +35,8 @@ I'm trying to create a timeline for history of computer.
 | 1959 | LISP |||||
 | 1957 | Fortran |||||
 | 1949 | Assembly Language |||||
+| 1933 | Telex | Telex starts as a way to distribute military messages, but soon becomes a world-wide network of both official and commercial text messaging that will persist in some countries into the 2000s. Telex uses teleprinters, which date back to the 1910s for use in telegraphy. But instead of using pricey dedicated telegraph lines, the telex system connects those teleprinters to each other over voice telephone lines, routed by modified telephone switches. Wireless versions of Telex soon connect remote regions of the developing world. | Germany | | |
+| 1910s | Teleprint | |||
 
 ## Reference
 - https://www.computerhistory.org/timeline/

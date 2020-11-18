@@ -10,14 +10,14 @@ I'm trying to create a timeline for history of computer.
 
 | Time | Event | Description | Location | People | Organization |
 | --- | --- | --- | --- | --- | --- |
-| 2018 | JSX |||||
-| 2015.09 | GraphQL |||||
-| 2015.06 | Redux |||||
-| 2015.03 | Babel |||||
+| 2018 | JSX |||| Facebook |
+| 2015.09 | GraphQL |||| Facebook |
+| 2015.06 | Redux |||| Facebook |
+| 2015.03 | Babel |||| Facebook |
 | 2014 | Swift, Flow | | | | |
-| 2013 | React |||||
-| 2012 | TypeScript |||||
-| 2009 | Go |||||
+| 2013 | React |||| Facebook |
+| 2012 | TypeScript |||| Microsoft |
+| 2009 | Go |||| Google |
 | 2003 | Scala, Groovy |||||
 | 2000 | C# |||||
 | 1996 | OCaml | | | | |

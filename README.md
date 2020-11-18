@@ -1,4 +1,4 @@
-# history-of-computer
+# History of Computer
 I'm trying to create a timeline for history of computer.
 
 ## MVP Requirements

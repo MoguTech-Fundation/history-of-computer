@@ -4,7 +4,6 @@ Influcence by Records of Three Kindoms, I think computer history has a lot of st
 ## MVP Requirements
 - There must a timeline to display a general history of computer world
 - It could be categoried by time (default), location, people and orgnization
-- Having a membership program
 
 ## Content
 

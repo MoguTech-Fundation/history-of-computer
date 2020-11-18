@@ -19,10 +19,13 @@ I'm trying to create a timeline for history of computer.
 | 2014.11 | Flow |||| Facebook |
 | 2014.06 | Swift | | | | Apple |
 | 2013 | React ||| Jordan Walke | Facebook |
+| 2012.09.12 | Zoom | ||| Zoom |
 | 2012 | TypeScript |||| Microsoft |
 | 2009 | Go |||| Google |
 | 2003 | Scala, Groovy |||||
 | 2000 | C# |||||
+| 1999.04.04 | Alibaba was found | ||| Alibaba |
+| 1998 | Tencent |||| Tencent |
 | 1996 | OCaml | | | | |
 | 1995 | Java, PHP, Ruby, JavaScript |||||
 | 1994 | Yahoo! was found | ||| Yahoo |

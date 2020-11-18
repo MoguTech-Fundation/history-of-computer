@@ -15,6 +15,7 @@ I'm trying to create a timeline for history of computer.
 | 2015.06 | Redux |||||
 | 2015.03 | Babel |||||
 | 2014 | Swift, Flow | | | | |
+| 2013 | React |||||
 | 2012 | TypeScript |||||
 | 2009 | Go |||||
 | 2003 | Scala, Groovy |||||

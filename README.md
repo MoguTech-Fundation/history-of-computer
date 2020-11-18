@@ -14,7 +14,8 @@ I'm trying to create a timeline for history of computer.
 | 2015.09 | GraphQL |||| Facebook |
 | 2015.06 | Redux |||| Facebook |
 | 2015.03 | Babel |||| Facebook |
-| 2014 | Swift, Flow | | | | |
+| 2014.11 | Flow |||| Facebook |
+| 2014.06 | Swift | | | | Apple |
 | 2013 | React ||| Jordan Walke | Facebook |
 | 2012 | TypeScript |||| Microsoft |
 | 2009 | Go |||| Google |

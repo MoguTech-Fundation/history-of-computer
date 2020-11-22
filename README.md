@@ -10,13 +10,15 @@ Influcenced by Records of Three Kindoms, I think computer history has a lot of s
 | Time | Event | Description | Location | People | Organization |
 | --- | --- | --- | --- | --- | --- |
 | 2020.11.10 | Apple Silicon (ARM) | Apple deprecate Intel core for their Mac computer products. ||| Apple |
+| 2020.08.27 | Xiao Peng Vehicle was public | ||| Xiao Peng |
 | 2019 | Yahoo! was aquired by Verizon | ||| Verizon, Yahoo! |
 | 2018 | JSX |||| Facebook |
 | 2015.09 | GraphQL |||| Facebook |
 | 2015.06 | Redux |||| Facebook |
 | 2015.03 | Babel |||| Facebook |
 | 2014.11 | Flow |||| Facebook |
-| 2014.06 | Swift | | | | Apple |
+| 2014.06.02 | Swift | | | | Apple |
+| 2014.06 | UC was aquired by Alibaba | || UC |
 | 2013 | React ||| Jordan Walke | Facebook |
 | 2012.09.12 | Zoom was found. | ||| Zoom |
 | 2012 | TypeScript |||| Microsoft |
